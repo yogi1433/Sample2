@@ -2,3 +2,4 @@ Market
 1.salt
 2.oil
 3.turmeric powder
+4.tasting salt
